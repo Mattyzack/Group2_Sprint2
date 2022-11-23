@@ -1,0 +1,109 @@
+Pseudocode
+1)Login_credentials
+//Admin
+  if(Admin_login==valid)
+       print Credentials are validated
+  else
+       print Credentials are invalid
+       exit
+ //User
+  if(User_login==valid)
+       print Credentials are validated
+  else
+       print Credentials are invalid
+       exit
+
+2)Client_socket
+//Socket creation
+  if(socket==successful)
+       print socket created successfully
+  else
+       print socket failed.Error!!!
+//Connection between client and server
+  if(connect==successful)
+       print connection established
+  else
+       print connection failed
+//Send data to server
+  if(send==successful)
+       print data sent successfully
+  else
+       print data not sent
+//Receive the data from server
+  if(receive==successful)
+       print data received successfully
+  else
+       print data not received.Error!!!
+
+3)Server_socket
+//Socket creation
+  if(socket==successful)
+       print socket created successfully
+  else
+       print socket failed.error!!!
+//Binding with socket
+  if(bind==successful)
+       print binding successful
+  else
+       print binding failed.Error!!!
+//Listenening to client
+  if(listen==successful)
+       print listening....
+  else
+       print listening failed
+//Accept
+  if(accept==successsful)
+       print client connected with IP and port number
+  else
+       print accept failed   
+//Send data to server
+  if(send==successful)
+       print data sent successfully
+  else
+       print data not sent
+//Receive the data from server
+  if(receive==successful)
+       print data received successfully
+  else
+       print data not received
+
+4)//Creation of textfile for voters list
+       Voters list should be create with the voter name and ID
+
+5)//Creation of textfile for Candidates list
+       Candidate name and party symbol name should be create in a textfile
+
+6)//creation of textfile for storing casted voter details 
+       Voter name and ID should be store in a textfile who done their voting
+
+7)//User enters voter_details
+    voter ID and name should be entered from client side which sends this information to server.
+
+8)//Checking the voters list
+      if(voter_details exists in voters list)
+          if(voter_details not exists in casted voter list)
+                 print Welcome voter
+          else
+                 print Sorry! You have already casted a vote.You can't vote again.
+
+      else
+           print Sorry! Your details are not in the authorized voters list
+                   
+          
+9)//Selecting the party name
+   if(user selects respective candidate)
+         print Congratulations! you have successsfully casted your vote
+   else
+         print Error !! Invalid choice
+
+10)//Result declaration
+     Counting the number of votes for each party 
+     Declaring the winner for every vote casting with symbol 
+
+11)//Exit
+   Process will terminate
+
+   
+
+   
+
