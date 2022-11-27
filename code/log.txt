@@ -1,0 +1,20 @@
+	DATE:Nov 27 2022	TIME:12:36:32	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:355	SERVER and CLIENT Bind is done
+	DATE:Nov 27 2022	TIME:12:36:32	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:366	SERVER Listening for Incoming Connections.... 
+	DATE:Nov 27 2022	TIME:12:36:32	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:382	SERVER Client Connected with IP: %s and Port No: 
+	DATE:Nov 27 2022	TIME:12:36:32	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:382	SERVER Client Connected with IP: %s and Port No: 
+	DATE:Nov 27 2022	TIME:12:36:32	FILENAME:server.cpp	FUNCTIONNAME:Error	[line]:163	SERVER ERROR
+	DATE:Nov 27 2022	TIME:12:36:32	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:355	SERVER and CLIENT Bind is done
+	DATE:Nov 27 2022	TIME:12:36:32	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:366	SERVER Listening for Incoming Connections.... 
+	DATE:Nov 27 2022	TIME:12:36:32	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:382	SERVER Client Connected with IP: %s and Port No: 
+	DATE:Nov 27 2022	TIME:12:36:32	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:382	SERVER Client Connected with IP: %s and Port No: 
+	DATE:Nov 27 2022	TIME:12:36:32	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:382	SERVER Client Connected with IP: %s and Port No: 
+	DATE:Nov 27 2022	TIME:12:36:32	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:382	SERVER Client Connected with IP: %s and Port No: 
+	DATE:Nov 27 2022	TIME:12:36:32	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:355	SERVER and CLIENT Bind is done
+	DATE:Nov 27 2022	TIME:12:36:32	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:366	SERVER Listening for Incoming Connections.... 
+	DATE:Nov 27 2022	TIME:12:36:32	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:355	SERVER and CLIENT Bind is done
+	DATE:Nov 27 2022	TIME:12:36:32	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:366	SERVER Listening for Incoming Connections.... 
+	DATE:Nov 27 2022	TIME:12:36:32	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:382	SERVER Client Connected with IP: %s and Port No: 
+	DATE:Nov 27 2022	TIME:12:36:32	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:382	SERVER Client Connected with IP: %s and Port No: 
+	DATE:Nov 27 2022	TIME:12:36:32	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:382	SERVER Client Connected with IP: %s and Port No: 
+	DATE:Nov 27 2022	TIME:12:36:32	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:355	SERVER and CLIENT Bind is done
+	DATE:Nov 27 2022	TIME:12:36:32	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:366	SERVER Listening for Incoming Connections.... 
