@@ -1,9 +1,0 @@
-	DATE:Nov 24 2022	TIME:03:35:00	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:366	SERVER and CLIENT Bind is done
-	DATE:Nov 24 2022	TIME:03:35:00	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:376	SERVER Listening for Incoming Connections.... 
-	DATE:Nov 24 2022	TIME:03:35:00	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:393	SERVER Client Connected with IP: %s and Port No: 
-	DATE:Nov 24 2022	TIME:03:35:00	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:393	SERVER Client Connected with IP: %s and Port No: 
-	DATE:Nov 24 2022	TIME:03:35:00	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:366	SERVER and CLIENT Bind is done
-	DATE:Nov 24 2022	TIME:03:35:00	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:376	SERVER Listening for Incoming Connections.... 
-	DATE:Nov 24 2022	TIME:03:35:00	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:393	SERVER Client Connected with IP: %s and Port No: 
-	DATE:Nov 24 2022	TIME:03:35:00	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:393	SERVER Client Connected with IP: %s and Port No: 
-	DATE:Nov 24 2022	TIME:03:35:00	FILENAME:server.cpp	FUNCTIONNAME:Info	[line]:393	SERVER Client Connected with IP: %s and Port No: 
